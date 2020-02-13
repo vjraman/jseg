@@ -1,0 +1,2 @@
+# jseg
+trying out javascript
